@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "sangamon-taylor",
+    "name": "Sangamon Taylor",
+    "epithet": "'The Granola James Bond' — chemist and direct-action eco-act",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Sangamon Taylor:ZOD:8abc28⟧"
+  },
+  {
+    "slug": "the-gallaghers",
+    "name": "The Gallaghers",
+    "epithet": "A local fishing family who help Taylor sample the harbor's w",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Gallaghers:ZOD:0419ad⟧"
+  },
+  {
+    "slug": "basco",
+    "name": "Basco",
+    "epithet": "The polluting chemical corporation at the heart of the cover",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Basco:ZOD:c9162d⟧"
+  },
+  {
+    "slug": "pcb-contamination",
+    "name": "PCB Contamination",
+    "epithet": "The polychlorinated biphenyls dumped in the harbor — the tox",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦PCB Contamination:ZOD:9b8964⟧"
+  },
+  {
+    "slug": "engineered-bacteria",
+    "name": "Engineered Bacteria",
+    "epithet": "A bioengineered pollution-eating microbe meant to 'solve' th",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Engineered Bacteria:ZOD:49af69⟧"
+  },
+  {
+    "slug": "sangamon-s-principle",
+    "name": "Sangamon's Principle",
+    "epithet": "Taylor's chemistry maxim — simpler molecules are generally s",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Sangamon's Principle:ZOD:376965⟧"
+  },
+  {
+    "slug": "spectacle-island",
+    "name": "Spectacle Island",
+    "epithet": "The toxic dumping ground in the harbor; the poisoned place a",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Spectacle Island:ZOD:273cf4⟧"
+  }
+]
